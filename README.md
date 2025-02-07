@@ -36,7 +36,7 @@ I'm Ruben Bavaro, an IT student from Italy 🇮🇹 with a passion for coding an
 <details>
   <summary><strong>Projects</strong></summary>
 
-  - **[OpenBook](https://github.com/RubenBavaro/OpenBook):** An innovative project built during a Hackathon, where we had just 8 hours to design and polish a website. What started as a simple idea to help school evolved into a dynamic, real-world solution.
+  - **[OpenBook](https://github.com/RubenBavaro/OpenBook):** An innovative project built during a Hackathon, where we had just 8 hours to design and polish a website. Initially conceived as a simple idea to help schools, it evolved into a dynamic, real-world solution. Special thanks to [AntonelloDeGiosa](https://github.com/AntonelloDeGiosa) and [GabrielePugliese](https://github.com/GabrielePugliese) for making this project possible.
   
 </details>
 <br>
