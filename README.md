@@ -20,12 +20,11 @@ Thanks for stopping by! This is my GitHub profile README where I share a bit abo
 
 <!-- Dynamic Typing SVG Title -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hello+World!+I'm+Ruben+Bavaro;IT+Student+%7C+Frontend+Developer+%7C+Lifelong+Learner" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hello+World!+I'm+Ruben+Bavaro!;IT+Student+%7C+Frontend+Developer+%7C+Lifelong+Learner" alt="Typing SVG" />
 </div>
-<br>
 
 ## About Me
-I'm Ruben Bavaro, an IT student from Italy 🇮🇹 with a passion for coding and transforming ideas into reality. I specialize in frontend development while expanding my skills into backend technologies. I believe in continuous learning and strive to build innovative, practical solutions with code.
+I'm Ruben Bavaro, an IT student from Italy 🇮🇹, from the school Panetti-Pitagora with a passion for coding and transforming ideas into reality. I specialize in frontend development while expanding my skills into backend technologies. I believe in continuous learning and strive to build innovative, practical solutions with code.
 
 ## Skills & Tools
 - **Languages:** HTML, CSS, JavaScript, Java, Python
